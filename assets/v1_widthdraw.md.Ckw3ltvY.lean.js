@@ -1,0 +1,1 @@
+import{_ as s,c as a,o,b as n}from"./chunks/framework.CJnA3SgD.js";const t=JSON.parse('{"title":"Saques e retiradas","description":"","frontmatter":{},"headers":[],"relativePath":"v1/widthdraw.md","filePath":"v1/widthdraw.md"}'),e={name:"v1/widthdraw.md"},p=[n("",9)];const l=s(e,[["render",function(s,n,t,e,l,c){return o(),a("div",null,p)}]]);export{t as __pageData,l as default};
